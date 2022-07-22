@@ -1,0 +1,8 @@
+Order #2 Bill
+
+
+Client: Marius Vidrean
+Ordered Product: Notebook . . . . . x4 units
+Price per Unit: 5.5 RON
+-------------------------------------------------------
+TOTAL: 22.0 RON

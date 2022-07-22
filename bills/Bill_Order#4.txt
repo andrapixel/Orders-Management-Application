@@ -1,0 +1,8 @@
+Order #4 Bill
+
+
+Client: Emma Adams
+Ordered Product: Pickles . . . . . x3 units
+Price per Unit: 7.99 RON
+-------------------------------------------------------
+TOTAL: 23.97 RON

@@ -1,0 +1,8 @@
+Order #1 Bill
+
+
+Client: Diana Jurcan
+Ordered Product: Vanilla Candle . . . . . x2 units
+Price per Unit: 14.99 RON
+-------------------------------------------------------
+TOTAL: 29.98 RON

@@ -1,0 +1,8 @@
+Order #6 Bill
+
+
+Client: Oana Jimbo
+Ordered Product: Banana . . . . . x4 units
+Price per Unit: 2.0 RON
+-------------------------------------------------------
+TOTAL: 8.0 RON

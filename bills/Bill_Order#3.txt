@@ -1,0 +1,8 @@
+Order #3 Bill
+
+
+Client: Alexandra Ilovan
+Ordered Product: Denim Jeans . . . . . x2 units
+Price per Unit: 89.99 RON
+-------------------------------------------------------
+TOTAL: 179.98 RON
